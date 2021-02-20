@@ -227,7 +227,7 @@ return [
         [
             'text' => 'Planos',
             'url'  => 'admin/plans',
-            // 'icon' => 'fas fa-fw fa-lock',
+            'icon' => 'fas fa-list-alt',
         ],
     ],
 
